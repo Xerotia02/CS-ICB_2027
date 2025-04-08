@@ -1,10 +1,2 @@
-# Student Submission Folder
-
-Please place your project files for CS-ICB here.
-
-✅ Guidelines:
-- Include a `README.md` explaining your project (if applicable).
-- Upload only your own work.
-- Do not rename this folder.
-
-🎓 Good luck and happy coding!
+This program contains the code for a Simple ATM system. It has user operatins such as Checking Balance, Withdraw, Deposit, & Exit.
+The program also has back-end processes running such as User Authentication, & Loading Accounts from Users.
